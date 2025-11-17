@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 - 🎓 Recently graduated with a Bachelor of Computer Science from UTAR.
-- 💼 Completed internship as a **Java Developer Intern (CAT – Cloud Automation Transform)** with **AIA Digital+ Malaysia**.
+- 💼 Completed internship as a **Java Developer Intern** with **AIA Digital+ Malaysia**.
 - 📱 Learning and exploring **React Native** and **Java Spring Boot**.
 - 🌱 Currently improving my skills in **Full-Stack Development** and backend fundamentals.
 - 🔍 Actively looking for junior developer positions with strong learning & growth opportunities.
