@@ -23,7 +23,7 @@
 - React Native, Expo, HTML/CSS/JS
 
 ### **Backend**
-- Node.js (beginner), Spring Boot (learning)
+- Node.js (beginner), MyBatis Spring Boot (beginner)
 
 ### **Database**
 - Firebase, Firestore, MySQL
