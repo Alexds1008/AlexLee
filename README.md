@@ -34,20 +34,26 @@
 ---
 
 ## 📂 Featured Projects    
-### 🚗 **University Parking System App** (React Native + Firebase + Expo Go)
+###  **University Parking System App** (React Native + Firebase + Expo Go)
 An app that helps students navigate to parking blocks with GPS & manage parking slots.
 - GPS navigation
 - Firebase Firestore integration
 - Occupy/free parking
 - Clean UI & smooth user flow
 
-### 🔢 **Math Learning App for Kids** (Android Studio)
+###  **Bill Splitter & Receipt Storage App**
+A native Android app for managing receipts and splitting bills. 
+- Firebase for cloud storage and authentication
+- OpenAI GPT-4o-mini for receipt parsing
+- Xendit for payment handling
+
+###  **Math Learning App for Kids** (Android Studio)
 Mobile app designed for primary school students to practice comparing, ordering, and composing numbers.
 - Multiple activities (Compare, Compose, Order)
 - Interactive learning UI
 - Developed natively using Java
 
-### 🔧 **Spring Boot Sample CRUD API** 
+###  **Spring Boot Sample CRUD API** 
 A simple backend API developed during internship learning tasks.
 - CRUD operations, Annotation validate data, Unit Test
 - MVC and Microservice structure
