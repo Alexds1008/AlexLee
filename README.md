@@ -54,7 +54,7 @@ Mobile app designed for primary school students to practice comparing, ordering,
 - Developed natively using Java
 
 ###  **Spring Boot Sample CRUD API** 
-A simple RESTful API developed during internship learning tasks.
+A simple backend RESTful API & Frontend developed during internship learning tasks.
 - CRUD operations, Annotation validate data, Unit Test
 - MVC and Microservice structure
 - MyBatis Spring Boot exploration
