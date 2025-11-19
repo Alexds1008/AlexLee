@@ -56,7 +56,7 @@ A simple backend API developed during internship learning tasks.
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dingshen-lee-a3447731a/)
+- 💼 LinkedIn: [DingShen Lee](https://www.linkedin.com/in/dingshen-lee-a3447731a/)
 - 📧 Email: dingshenlee@gmail.com
 ---
 
