@@ -17,28 +17,28 @@
 
 ## 🛠️ Tech Stack
 ### **Languages**
-- Java, JavaScript, Python, C
+- Java, JavaScript, Python, C, PHP
 
 ### **Frontend / Mobile**
-- React Native, Expo, HTML/CSS/JS
+- React Native, HTML/CSS/JS
 
 ### **Backend**
 - Node.js (beginner), MyBatis Spring Boot (beginner)
 
 ### **Database**
-- Firebase, Firestore, MySQL
+- Firebase, MySQL
 
 ### **Tools**
 - Git & GitHub, VS Code, Visual Studio, Android Studio, Postman, Figma, IntelliJ
 
 ---
 
-## 📂 Featured Projects     --------Until Here---------
+## 📂 Featured Projects    
 ### 🚗 **University Parking System App** (React Native + Firebase + Expo Go)
-An app that helps students navigate to parking blocks with GPS & manage parking slots using QR codes.
+An app that helps students navigate to parking blocks with GPS & manage parking slots.
 - GPS navigation
 - Firebase Firestore integration
-- QR scanning for occupy/free parking
+- Occupy/free parking
 - Clean UI & smooth user flow
 
 ### 🔢 **Math Learning App for Kids** (Android Studio)
@@ -47,18 +47,17 @@ Mobile app designed for primary school students to practice comparing, ordering,
 - Interactive learning UI
 - Developed natively using Java
 
-### 🔧 **Spring Boot Sample CRUD API**
+### 🔧 **Spring Boot Sample CRUD API** 
 A simple backend API developed during internship learning tasks.
-- CRUD operations
-- MVC structure
-- MyBatis exploration
+- CRUD operations, Annotation validate data, Unit Test
+- MVC and Microservice structure
+- MyBatis Spring Boot exploration
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: *Add your LinkedIn URL here*
-- 📧 Email: *Add your email here*
-
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dingshen-lee-a3447731a/)
+- 📧 Email: dingshenlee@gmail.com
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
