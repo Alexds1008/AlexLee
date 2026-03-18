@@ -20,7 +20,7 @@
 - Java, JavaScript, Python, C, PHP
 
 ### **Frontend / Mobile**
-- React Native, HTML/CSS/JS
+- React Native(beginner), HTML/CSS/JS
 
 ### **Backend**
 - Node.js (beginner), MyBatis Spring Boot (beginner)
@@ -51,13 +51,13 @@ A native Android app for managing receipts and splitting bills.
 Mobile app designed for primary school students to practice comparing, ordering, and composing numbers.
 - Multiple activities (Compare, Compose, Order)
 - Interactive learning UI
-- Developed natively using Java
+Developed natively using **Java** in Android Studio
 
 ###  **Spring Boot Sample CRUD API** 
-A simple backend RESTful API & Frontend developed during internship learning tasks.
+A simple backend **RESTful API** & Frontend developed during internship learning tasks.
 - CRUD operations, Annotation validate data, Unit Test
-- MVC and Microservice structure
-- MyBatis Spring Boot exploration
+- **MVC and Microservice** structure
+- **MyBatis Spring Boot** exploration
 
 ---
 
